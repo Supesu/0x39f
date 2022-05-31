@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "test",
+      "includePath": ["./External/imgui", "./Eve/Source"],
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

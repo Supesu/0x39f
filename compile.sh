@@ -1,0 +1,2 @@
+/Users/supesu/VulkanSDK/1.2.198.1/macOS/bin/glslc Eve/Shaders/shader.vert -o Build/Release/macOS/Shaders/shader.vert.spv
+/Users/supesu/VulkanSDK/1.2.198.1/macOS/bin/glslc Eve/Shaders/shader.frag -o Build/Release/macOS/Shaders/shader.frag.spv
